@@ -17,6 +17,7 @@ Note: The name "awesome" is just a GitHub convention used when compiling large l
 1. [Bangalore-based meta resource for beds, hospitals, crowdfunding, testing including CT-scan, etc](https://covidhelplinebangalore.com/)
 2. [A great Google Sheet with nicely categorized contact numbers for oxygen, ambulances, oxygen beds, medicine/plasma, testing, etc.](https://docs.google.com/spreadsheets/d/1NzMAbnm1n25y9VoR_e-hEPN3g7fFLHuQXiLLDRuEHYk/edit#gid=234716393)
 3. [Beds availability - Google Sheet](https://bbmpgov.com/chbms/)
+4. [Twitter search tool](https://covid19-twitter.in/)
  
 # Helpline numbers
 ![image](https://user-images.githubusercontent.com/1230386/116162466-d8bc8880-a6c3-11eb-9a30-7bb84b69146a.png)
