@@ -3,7 +3,7 @@ Resources for oxygen (and other COVID-related things) in Bengaluru.
 
 Note: The name "awesome" is just a GitHub convention used when compiling large lists of something (~ "this is an awesome place to find resources on X").
 
-# Table of Contents
+# Contents
 1. [Oxygen](#oxygen)
 2. [Meta resources](#meta-resources)
 3. [Helpline numbers](#helpline-numbers)
