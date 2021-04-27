@@ -16,8 +16,9 @@ Note: The name "awesome" is just a GitHub convention used when compiling large l
 
 
 # Meta resources
-1. [Bangalore-based meta resource for beds, hospitals, crowdfunding, testing including CT-scan, etc](https://covidhelplinebangalore.com/)
-2. [A great Google Sheet with nicely categorized contact numbers for oxygen, ambulances, oxygen beds, medicine/plasma, testing, etc.](https://docs.google.com/spreadsheets/d/1NzMAbnm1n25y9VoR_e-hEPN3g7fFLHuQXiLLDRuEHYk/edit#gid=234716393)
+1. [COVID-19 Handbook for Bengaluru by VMWare Volunteers](https://github.com/msamogh/awesome-covid-bengaluru/blob/main/Bangalore%20COVID19%20Info-25Apr-Collated%20from%20publicly%20available%20information%20by%20volunteers%20at%20VMware%20India.pdf)
+2. [Bangalore-based meta resource for beds, hospitals, crowdfunding, testing including CT-scan, etc](https://covidhelplinebangalore.com/)
+3. [A great Google Sheet with nicely categorized contact numbers for oxygen, ambulances, oxygen beds, medicine/plasma, testing, etc.](https://docs.google.com/spreadsheets/d/1NzMAbnm1n25y9VoR_e-hEPN3g7fFLHuQXiLLDRuEHYk/edit#gid=234716393)
    - [Govt helpline contact for oxygen and remdesivir](https://docs.google.com/spreadsheets/d/1M9J1nDFLxJ2hevqNuPA7puhrxGRl_dZTT8LQNdHMcmA/edit#gid=0)
 4. [Beds availability - BBMP](https://bbmpgov.com/chbms/)
 5. [Twitter search tool](https://covid19-twitter.in/) - This tool constructs a search query to search Twitter for specific resources (oxygen, remdesivir, beds, etc.) in a specified city. If you have no luck with any of the government and private institutions, this is a great way to find the latest "advertisements" for these resources.
