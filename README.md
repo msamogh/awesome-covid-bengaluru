@@ -22,6 +22,8 @@ Note: The name "awesome" is just a GitHub convention used when compiling large l
 4. [Twitter search tool](https://covid19-twitter.in/)
  
 # Helpline numbers
+Some of these could be redundant.
+![image](https://user-images.githubusercontent.com/1230386/116170025-f560bc80-a6d3-11eb-8991-25e9019db394.png)
 ![image](https://user-images.githubusercontent.com/1230386/116162466-d8bc8880-a6c3-11eb-9a30-7bb84b69146a.png)
 ![image](https://user-images.githubusercontent.com/1230386/116162688-52547680-a6c4-11eb-966c-109e3614d6aa.png)
 ![image](https://user-images.githubusercontent.com/1230386/116163613-16221580-a6c6-11eb-84b3-e8b24c54dd55.png)
