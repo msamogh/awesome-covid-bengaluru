@@ -1,6 +1,8 @@
 # awesome-covid-bengaluru
 I'll be compiling here all the resources for beds, oxygen, and other COVID-related things in Bengaluru as and when I come across them from reliable sources on Twitter, Instagram, and the likes.
 
+Feel free to shoot me an email at msamogh@gmail.com if you come across any additional resources.
+
 Note: The name "awesome" is just a GitHub convention used when compiling large lists of something (~ "this is an awesome place to find resources on X").
 
 # Contents
