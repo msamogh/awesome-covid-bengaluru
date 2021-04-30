@@ -22,6 +22,7 @@ Note: The name "awesome" is just a GitHub convention used when compiling large l
    - [Govt helpline contact for oxygen and remdesivir](https://docs.google.com/spreadsheets/d/1M9J1nDFLxJ2hevqNuPA7puhrxGRl_dZTT8LQNdHMcmA/edit#gid=0)
 4. [Beds availability - BBMP](https://bbmpgov.com/chbms/)
 5. [Twitter search tool](https://covid19-twitter.in/) - This tool constructs a search query to search Twitter for specific resources (oxygen, remdesivir, beds, etc.) in a specified city. If you have no luck with any of the government and private institutions, this is a great way to find the latest "advertisements" for these resources.
+6. [Sprinklr dashboard (latest tweets)](https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/4?id=DASHBOARD_601b9e214c7a6b689d76f493)
  
 # Helpline numbers
 Note: Some of these could be redundant.
